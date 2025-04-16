@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7020734b-7c8f-43ca-9910-9be41ff2a0ef)<H3>NAME:RICHARDSON A</H3>
+<H3>NAME:RICHARDSON A</H3>
 <H3>REGISTER NO:212222233005</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:16/04/25</H3>
